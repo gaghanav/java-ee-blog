@@ -1,5 +1,8 @@
-C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\service\BlogService.java
+C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\dao\ArticleDAO.java
+C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\dao\impl\BlogDAOImpl.java
 C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\controller\BlogController.java
-C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\model\BlogModel.java
-C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\service\impl\BlogServiceImpl.java
+C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\model\Blog.java
+C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\model\Article.java
+C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\dao\impl\ArticleDAOImpl.java
+C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\controller\ArticleController.java
 C:\Users\HP\eclipse-workspace\blog\src\main\java\com\valen\javaee\dao\BlogDAO.java

@@ -1,5 +1,8 @@
-com\valen\javaee\service\BlogService.class
-com\valen\javaee\service\impl\BlogServiceImpl.class
-com\valen\javaee\model\BlogModel.class
 com\valen\javaee\controller\BlogController.class
+com\valen\javaee\dao\impl\ArticleDAOImpl.class
 com\valen\javaee\dao\BlogDAO.class
+com\valen\javaee\model\Article.class
+com\valen\javaee\controller\ArticleController.class
+com\valen\javaee\dao\ArticleDAO.class
+com\valen\javaee\dao\impl\BlogDAOImpl.class
+com\valen\javaee\model\Blog.class
