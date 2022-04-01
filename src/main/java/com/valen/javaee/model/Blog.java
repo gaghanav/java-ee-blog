@@ -15,6 +15,4 @@ import javax.persistence.ManyToOne;
 public class Blog {
     @Id
     private Integer id;
-    @ManyToOne
-    private List<Article> articles;
 }

@@ -8,9 +8,10 @@ import jakarta.inject.Inject;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
+import javax.ws.rs.core.Response;
 import java.util.List;
 
-@Path("/api")
+@Path("/blog")
 public class BlogController {
 
     @Inject
@@ -19,7 +20,8 @@ public class BlogController {
     @GET
     @Path("/list")
     @Produces("application/json")
-    List<Blog> getBlogs(){
-        return blogDAO.blogs();
+    public Response getBlogs(){
+        System.out.println("nge hit blogs");
+        return Response.ok().entity("Nge hit blogs").build();
     }
 }
